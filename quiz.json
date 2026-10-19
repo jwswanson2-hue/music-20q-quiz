@@ -1,0 +1,266 @@
+
+[
+  {
+    "id": 1,
+    "category": "70s",
+    "difficulty": "Hard",
+    "question": "Where was the lead singer of Queen, Freddie Mercury, born?",
+    "options": [
+      "London, England",
+      "Zanzibar, Tanzania",
+      "New York, USA",
+      "Sydney, Australia"
+    ],
+    "answer": "Zanzibar, Tanzania"
+  },
+   
+  { 
+    "id": 2,
+    "category": "70s",
+    "difficulty": "Hard",
+    "question": "Which band released the album 'Rumours' in 1977?",
+    "options": [
+      "Fleetwood Mac",
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "answer": "Fleetwood Mac"
+  },
+  
+  {
+    "id": 3,
+    "category": "70s",
+    "difficulty": "Hard",
+    "question": "What year did the first Star Wars movie premiere?",
+    "options": [
+      "1975",
+      "1977",
+      "1979",
+      "1980"
+    ],
+    "answer": "1977"
+  },
+  {
+    "id": 4,
+    "category": "70s",
+    "difficulty": "Medium",
+    "question": "Which disco hit by the Bee Gees was featured in the movie 'Saturday Night Fever'?",
+    "options": [
+      "Stayin' Alive",
+      "Night Fever",
+      "How Deep Is Your Love",
+      "Jive Talkin'"
+    ],
+    "answer": "Stayin' Alive"
+  },
+  {
+    "id": 5,
+    "category": "70s",
+    "difficulty": "Medium",
+    "question": "Which iconic rock band released the album 'A Night at the Opera' in 1975?",
+    "options": [
+      "Queen",
+      "The Beatles",
+      "The Who",
+      "Pink Floyd"
+    ],
+    "answer": "Queen"
+  },
+  {
+    "id": 6,
+    "category": "70s",
+    "difficulty": "Easy",
+    "question": "Which band released the hit song 'Hotel California' in 1976?",
+    "options": [
+      "Eagles",
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "Fleetwood Mac"
+    ],
+    "answer": "Eagles"
+  },
+  {
+    "id": 7,
+    "category": "70s",
+    "difficulty": "Easy",
+    "question": "Which famous musician is known as the 'King of Pop' and released the album 'Off the Wall' in 1979?",
+    "options": [
+      "Michael Jackson",
+      "Prince",
+      "David Bowie",
+      "Elton John"
+    ],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": 8,
+    "category": "80s",
+    "difficulty": "Hard",
+    "question": "Which band released the hit song 'Sweet Child o' Mine' in 1987?",
+    "options": [
+      "Guns N' Roses",
+      "Bon Jovi",
+      "Def Leppard",
+      "Aerosmith"
+    ],
+    "answer": "Guns N' Roses"
+  },
+  {
+    "id": 9,
+    "category": "80s",
+    "difficulty": "Hard",
+    "question": "What was the name of the first music video played on MTV in 1981?",
+    "options": [
+      "'Video Killed the Radio Star' by The Buggles",
+      "'Thriller' by Michael Jackson",
+      "'Like a Virgin' by Madonna",
+      "'Sweet Dreams (Are Made of This)' by Eurythmics"
+    ],
+    "answer": "'Video Killed the Radio Star' by The Buggles"
+  },
+  {
+    "id": 10,
+    "category": "80s",
+    "difficulty": "Hard",
+    "question": "Which band released the album 'The Joshua Tree' in 1987?",
+    "options": [
+      "U2",
+      "The Police",
+      "R.E.M.",
+      "Duran Duran"
+    ],
+    "answer": "U2"
+  },
+  {
+    "id": 11,
+     "category": "80s",
+    "difficulty": "Medium",
+    "question": "Which pop star released the hit song 'Like a Prayer' in 1989?",
+    "options": [
+      "Madonna",
+      "Whitney Houston",
+      "Cyndi Lauper",
+      "Janet Jackson"
+    ],
+    "answer": "Madonna"
+  },
+  {
+    "id": 13,
+    "category": "80s",
+    "difficulty": "Easy",
+    "question": "Which band released the album 'Thriller' in 1982?",
+    "options": [
+      "Michael Jackson",
+      "Prince",
+      "Madonna",
+      "Whitney Houston"
+    ],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": 12,
+    "category": "80s",
+    "difficulty": "Medium",
+    "question": "Which movie featured the hit song 'Eye of the Tiger' by Survivor?",
+    "options": [
+      "'Rocky III'",
+      "'Top Gun'",
+      "'Flashdance'",
+      "'Dirty Dancing'"
+    ],
+    "answer": "'Rocky III'"
+  },
+  {
+    "id": 14,
+    "category": "90s",
+    "difficulty": "Hard",
+    "question": "Which band released the hit song 'Smells Like Teen Spirit' in 1991?",
+    "options": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "answer": "Nirvana"
+  },
+  {
+    "id": 15,
+    "category": "90s",
+    "difficulty": "Hard",
+    "question": "Which boy band released the hit song 'I Want It That Way' in 1999?",
+    "options": [
+      "'Backstreet Boys'",
+      "'NSYNC'",
+      "'98 Degrees'",
+      "'Boyz II Men'"
+    ],
+    "answer": "'Backstreet Boys'"
+  },
+  {
+    "id": 16,
+    "category": "90s",
+    "difficulty": "Medium",
+    "question": "Which female artist released the hit song 'My Heart Will Go On' in 1997?",
+    "options": [
+      "'Celine Dion'",
+      "'Mariah Carey'",
+      "'Whitney Houston'",
+      "'Shania Twain'"
+    ],
+    "answer": "'Celine Dion'"
+  },
+  {
+    "id": 17,
+    "category": "90s",
+    "difficulty": "Medium",
+    "question": "Which band released the hit song 'Wonderwall' in 1995?",
+    "options": [
+      "'Oasis'",
+      "'Blur'",
+      "'Radiohead'",
+      "'The Verve'"
+    ],
+    "answer": "'Oasis'"
+  },
+  {
+    "id": 18,
+    "category": "90s",
+    "difficulty": "Easy",
+    "question": "Which rapper released the hit song 'Gangsta's Paradise' in 1995?",
+    "options": [
+      "'Coolio'",
+      "'Tupac Shakur'",
+      "'Notorious B.I.G.'",
+      "'Snoop Dogg'"
+    ],
+    "answer": "'Coolio'"
+  },
+  {
+    "id": 19,
+    "category": "90s",
+    "difficulty": "Easy",
+    "question": "Which band released the hit song 'Iris' in 1998?",
+    "options": [
+      "'Goo Goo Dolls'",
+      "'Third Eye Blind'",
+      "'Matchbox Twenty'",
+      "'Counting Crows'"
+    ],
+    "answer": "'Goo Goo Dolls'"
+  },
+  {
+    "id": 20,
+    "category": "90s",
+    "difficulty": "Easy",
+    "question": "Which pop star released the hit song 'Baby One More Time' in 1999?",
+    "options": [
+      "'Britney Spears'",
+      "'Christina Aguilera'",
+      "'Jessica Simpson'",
+      "'Mandy Moore'"
+    ],
+    "answer": "'Britney Spears'"
+  }
+]
+  
